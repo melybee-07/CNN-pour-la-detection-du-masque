@@ -30,12 +30,6 @@ Ce projet est mon mémoire de fin d'année du Master en Réseaux et Télécommun
 3. Utilisez le fichier `training.m` pour re-entraîner le modèle CNN avec vos propres données si nécessaire.
 4. Exécutez le fichier `Facedettest.m` pour tester la détection de visages avec l'algorithme de Viola Jones.
 
-## Contact Info
 
-👤 **Melissa Mazir**
-
-- GitHub: [@melybee-07](https://github.com/melybee-07)
-- Twitter: [@mazir_melissa](https://twitter.com/mazir_melissa)
-- LinkedIn: [melissa mazir](https://www.linkedin.com/in/melissa-mazir-172574223/) 
 
 N'hésitez pas à explorer les différents fichiers et à les utiliser selon vos besoins. Si vous avez des questions ou des commentaires, n'hésitez pas à me contacter.
